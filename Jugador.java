@@ -1,7 +1,7 @@
 package TER;
 
 import java.util.Scanner;
-
+// Probando probando
 public class Jugador {
     private String nombre;
     private char ficha;
